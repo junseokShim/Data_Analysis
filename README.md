@@ -15,6 +15,9 @@
 
  - 시각화
 
+ https://docs.google.com/spreadsheets/d/1lNHX7OzpiXxUs0LJx6-_zerJTa60221m-goYdVohotQ/edit#gid=871373903
+
+
 왜 Excel이 아닌 Python으로 데이터를 분석하는가?
 - 속도 측면에서 유리
 - 외부 툴을 사용할 수 있으나, 한계(딥러닝, 머신러닝 등)를 가짐
@@ -26,3 +29,6 @@ Python
 - 라이브러리를 통해 데이터 분석에 쉬운 접근이 가능함 (pandas, numpy 등)
     - Pandas : 데이터를 여러가지 방법으로 다룰 수 있게 해주는 Python Library (범용성이 넓은 Excel)
     - Matplotlib : 데이터 시각화를 위한 Python Library 
+
+[1주차 숙제]
+https://docs.google.com/spreadsheets/d/1VOws-DGPXV8eLcs_H0GMye_m2uIgnQojZWdhUxd6xGQ/edit#gid=2074568873
