@@ -12,13 +12,21 @@
 
 (Step 2) 데이터 분석
  - 상관도 분석
+
+
 ![슬라이드1](https://github.com/junseokShim/Data_Analysis/assets/88752654/d83d1d00-60f8-4b45-bafb-64c467ae782a)
 
  - 시각화
+
+
  (분석 1)
+ 
+ 
 ![슬라이드2](https://github.com/junseokShim/Data_Analysis/assets/88752654/33b2c3db-6ebf-4ebf-8374-b87b94291759)
 
 (분석 2)
+
+
 ![슬라이드3](https://github.com/junseokShim/Data_Analysis/assets/88752654/5da01da2-55b2-4d6a-889b-a1e02af6f942)
 
 
